@@ -764,7 +764,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Escolha a partir da grande seleção de blocos pré-fabricados mais recentes - jumbotrons, imagens de heróis, rolagem de paralaxe, fundos de vídeo, menu de hambúrguer, cabeçalho e mais.",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"quemsomos.html\" data-toolbar=\"-mbrBtnMove\">Nos Conheça</a> ",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn display-4 btn-secondary\" data-app-placeholder=\"Type Text\" href=\"quemsomos.html\" data-toolbar=\"-mbrBtnMove\">Nos Conheça!</a> ",
                 "overlayOpacity": "0.5"
               }
             ]
