@@ -1753,11 +1753,11 @@ section.lazy-placeholder:after {
 .cid-rTgjoQzDw3 {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-image: url("../../../assets/images/fundo-card-ela-2000x1333.jpg");
+  background: linear-gradient(0deg, #cc2952, #ff3366);
 }
 .cid-rTgjoQzDw3 .mbr-iconfont-social {
   font-size: 32px;
-  color: #ff3366;
+  color: #ffffff;
 }
 .cid-rTgjoQzDw3 .social-list a:focus {
   text-decoration: none;
